@@ -4,4 +4,4 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 
 
-https://github.com/sahal-k/sql-data-warehouse-project/blob/main/arch_png.png
+![Dashboard Preview].(https://github.com/sahal-k/sql-data-warehouse-project/blob/main/arch_png.png)
