@@ -1,6 +1,6 @@
 /*
 ===============================
-DDL Script: Create Gold Views
+DDL Script for Creating Gold Views
 ===============================
 */
 
